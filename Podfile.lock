@@ -1,0 +1,19 @@
+PODS:
+  - Snap (0.0.3)
+
+DEPENDENCIES:
+  - Snap (from `https://github.com/Masonry/Snap.git`)
+
+EXTERNAL SOURCES:
+  Snap:
+    :git: https://github.com/Masonry/Snap.git
+
+CHECKOUT OPTIONS:
+  Snap:
+    :commit: 21a73287f30e0f0b31520e0ca245c46ef4073b28
+    :git: https://github.com/Masonry/Snap.git
+
+SPEC CHECKSUMS:
+  Snap: f6034910cfcaa4b5b565a681804a82704a234bb4
+
+COCOAPODS: 0.36.0.beta.1
